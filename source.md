@@ -84,6 +84,18 @@ Support Bulk operation(script or command) and  essential operation and maintenan
 
 ![image-20231017113704720](readme.assets/image-20231017113704720.png)
 
+### Bulk operation
+
+![image-20231017153034078](source.assets/image-20231017153034078.png)
+
+### Bulk Patch Management
+
+Support patches scan of bulk of Windows machine
+
+![image-20231017154129424](source.assets/image-20231017154129424.png)
+
+### Server Maintenance
+
 ![image-20231017150646726](source.assets/image-20231017150646726.png)
 
 ## Settings
