@@ -72,6 +72,40 @@ about agents install/update/manage
 
 ![image-20231017113458558](source.assets/image-20231017113458558.png)
 
+### Install Agent
+
+At first, we must choose site and client
+
+Then choose Server or Workstation
+
+If we choose windows, we can open RDP and enable ping 
+
+There are three installation method: exe, PowerShell, Manual
+
+![image-20231017171409689](source.assets/image-20231017171409689.png)
+
+The install on Linux and MacOS are simple
+
+![image-20231017171846154](source.assets/image-20231017171846154.png)
+
+The admin should download the application/script to make it work
+
+### Deploy managements
+
+I do not make sure how it work, it seems to provide a link to download the agents
+
+it can be add/delete operation
+
+![image-20231017172233420](source.assets/image-20231017172233420.png)
+
+### Update Agent
+
+update the agent which has been installed
+
+![image-20231017172526854](source.assets/image-20231017172526854.png)
+
+
+
 ## Logs
 
 Output admin operations log
