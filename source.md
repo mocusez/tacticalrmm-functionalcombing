@@ -106,6 +106,14 @@ update the agent which has been installed
 
 
 
+## View
+
+### Pending actions
+
+Recent tasks or checks
+
+![image-20231017172840042](source.assets/image-20231017172840042.png)
+
 ## Logs
 
 Output admin operations log
