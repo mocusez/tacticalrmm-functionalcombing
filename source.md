@@ -118,7 +118,15 @@ Recent tasks or checks
 
 Output admin operations log
 
+Allow to output on CSV format
+
 ![image-20231017113613773](source.assets/image-20231017113613773.png)
+
+support search on type or log message
+
+![image-20231017173448423](source.assets/image-20231017173448423.png)
+
+
 
 ## Tools
 
