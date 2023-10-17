@@ -7,3 +7,6 @@ Client -> Site ->  Hostname
 Server
 
 WorkStation
+
+## Window
+All the window support refresh data
