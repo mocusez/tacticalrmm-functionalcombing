@@ -34,17 +34,23 @@ Output situation of tasks working(Only support on Windows)
 
 Output patches situation of Windows(Only support on Windows)
 
+Support CSV output
+
 ![image-20231017112602901](source.assets/image-20231017112602901.png)
 
 ### Software
 
 Software installed information of system(Only support on Windows)
 
+Support CSV output
+
 ![image-20231017112621509](source.assets/image-20231017112621509.png)
 
 ### History
 
 Output history of script work
+
+Support CSV output
 
 ![image-20231017112711766](source.assets/image-20231017112711766.png)
 
@@ -61,6 +67,8 @@ Include: CPU, Memory, USB, BIOS etc.
 ### Audit
 
 Audit user's action on device
+
+Support CSV output
 
 ![image-20231017113140127](source.assets/image-20231017113140127.png)
 
@@ -235,6 +243,14 @@ API keys management: add/delete/find/change
 Add certificate to the agents to avoid antivirus trouble
 
 ![image-20231017170907215](source.assets/image-20231017170907215.png)
+
+## Account
+
+### 2FA and password
+
+Support 2FA (TOTP) and password reset
+
+
 
 ## Help
 
